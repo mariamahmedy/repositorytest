@@ -1,9 +1,6 @@
-#include <iostream>
 #include "radwaahmd.h"
-using namespace std;
-
-int main(int argc, char* args[])
+radwaahmd()
 {
-    cout << radwaahmd() << endl;
-    return 0;
+	cout << "Radwa Ahmed" << endl;
+	cout << "radwaahmed@aucegypt.edu" << endl;
 }
